@@ -1,2 +1,2 @@
 # nauka git
-Lubie czerwony
+Lubie zielony
